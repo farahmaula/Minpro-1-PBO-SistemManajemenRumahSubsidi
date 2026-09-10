@@ -18,7 +18,7 @@ Admin dapat memasukkan dan mengelola data rumah subsidi, admin juga dapat memasu
 
 4. Validasi Input
 
-   Validasi input diterapkan pada package sistemcrud pada percabangan. Penerapan validasi input digunakan di setiap menu yang ditambahkan salah satunya pada menu proses pengajuan bahwa jika gaji dibawah 2 juta maka pengajuan rumah subsidi akan ditolak.
+   Validasi input diterapkan pada package sistemcrud pada setiap percabangan yang ada if elseif dan else. Penerapan validasi input digunakan di setiap menu yang ditambahkan salah satunya pada menu proses pengajuan bahwa jika gaji dibawah 2 juta maka pengajuan rumah subsidi akan ditolak.
    <img width="819" height="269" alt="image" src="https://github.com/user-attachments/assets/d965aaaf-a82f-4e87-a98c-3b205651e51e" />
 diatas adalah salah satu dari penerapan program validasi input untuk menu proses pengajuan, sistem memastikan gaji dari pembeli ada di angka >= 2 juta untuk melakukan pengajuan pembelian rumah subsidi.
 
