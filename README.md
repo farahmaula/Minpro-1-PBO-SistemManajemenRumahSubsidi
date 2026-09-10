@@ -9,5 +9,8 @@ Admin dapat memasukkan dan mengelola data rumah subsidi, admin juga dapat memasu
 # Penerapan Nilai Tambah Encapsulation, Access Modifire, & Validasi Input
 
 1. Encapsulation
-   Saya menerapkan encapsulation pada semua class yang dibuat 
+   Saya menerapkan encapsulation pada semua class yang dibuat karena semua atribut dibuat private. Getter digunakan untuk mengambil nilai dari atribut class itu sendiri lalu menggunakan setter untuk mengubah atau menambah isi nilai ya ada pada atributya.
+
+2. Access Modifire
+
 
