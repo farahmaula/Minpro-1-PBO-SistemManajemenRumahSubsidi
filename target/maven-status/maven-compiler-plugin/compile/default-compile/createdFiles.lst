@@ -1,0 +1,6 @@
+model\Dokumen.class
+model\Rumah.class
+model\Pengajuan.class
+sistemCrud\ManajemenData.class
+main\Main.class
+model\Pembeli.class
