@@ -8,5 +8,6 @@ Admin dapat memasukkan dan mengelola data rumah subsidi, admin juga dapat memasu
 
 # Penerapan Nilai Tambah Encapsulation, Access Modifire, & Validasi Input
 
-1. 
+1. Encapsulation
+   Saya menerapkan encapsulation pada semua class yang dibuat 
 
